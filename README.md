@@ -2,7 +2,7 @@
 This is a project assigned to me during [theDevMasters](https://www.thedevmasters.com) bootcamp.<br> 
 
 ## Introduction
-Calling in to fix broken devices is costly and time consuming. However, constant service calls also have a negative cost impact on a company. With machine learning, device failure can be predicted, leading to cost savings.
+Requesting to fix already broken devices is costly and time consuming. However, constant service calls also have a negative cost impact on a company. With machine learning, device failure can be predicted, leading to cost savings.
 
 ## Objective
 The objective of this project is to predict which devices will fail.
