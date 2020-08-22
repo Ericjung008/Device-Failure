@@ -39,5 +39,5 @@ Libraries: Numpy, Pandas, Scipy, Matplotlib, Seaborn, Scikit-learn, XGBoost, Imb
 
 ## Project Files
 * [README](https://github.com/Ericjung008/Device-Failure/blob/master/README.md)
-* [Project]()
+* [Project](https://github.com/Ericjung008/Device-Failure/blob/master/Device%20Failure%20Prediction.ipynb)
 * [Dataset](https://github.com/Ericjung008/Device-Failure/blob/master/failures.csv)
